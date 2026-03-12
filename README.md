@@ -4,7 +4,7 @@ A fun Flappy Bird-style game built with vanilla JavaScript, featuring the Kiro l
 
 ## 🎯 Play the Game
 
-**[Play Flappy Kiro Now!](https://marcobompani.github.io/flappy-kiro/game-application/)**
+**[Play Flappy Kiro Now!](https://marcobompani.github.io/flappy-kiro/)**
 
 ## ✨ Features
 
